@@ -9,7 +9,7 @@ I am passionate about Physics, Maths and Computer Science.
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
-<div
+<div>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/> &nbsp;
   </a>
@@ -31,8 +31,7 @@ I am passionate about Physics, Maths and Computer Science.
 </div>
 
 ### Socials
-<div
-  
+<div>
   <a href="[https://www.linkedin.com/in/arun-kulathingal/](http://discordapp.com/users/919196166812479508)">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/discord.svg" width="40" height="40"/> &nbsp;
   </a>
