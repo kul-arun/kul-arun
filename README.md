@@ -11,7 +11,7 @@ I am passionate about Physics, Maths and Computer Science.
 ### Skills
 <div>
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://isocpp.org/">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/>&nbsp;
