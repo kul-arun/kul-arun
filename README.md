@@ -16,9 +16,6 @@ I am passionate about Physics, Maths and Computer Science.
   <a href="https://isocpp.org/">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/> &nbsp;
   </a>
-  <a href="https://julialang.org/">
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/julia.svg" width="40" height="40"/> &nbsp;
-  </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/bash.svg" width="40" height="40"/> &nbsp;
   </a>
