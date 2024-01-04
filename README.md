@@ -8,9 +8,9 @@ I am passionate about Physics, Maths and Computer Science. I enjoy travelling, C
 
 ### Skills
 <div>
-  <picture>
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/>
-  </picture>
+  </a>
   &nbsp
   <picture>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/>
