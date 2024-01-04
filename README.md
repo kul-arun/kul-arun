@@ -1,7 +1,7 @@
 Hi, My name is Arun
 ============================================================================================================================
 
-I am passionate about Physics, Maths and Computer Science. I enjoy travelling, Chess and beer.
+I am passionate about Physics, Maths and Computer Science. In my free time, I enjoy travelling, Chess and beer.
 
 *   ✉️  You can contact me at [kul.arun21@gmail.com](mailto:kul.arun21@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
