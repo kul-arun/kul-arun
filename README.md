@@ -8,25 +8,15 @@ I am passionate about Physics, Maths and Computer Science. I enjoy travelling, C
 
 ### Skills
 <div>
-  <a>
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/>
   &nbsp
-  <a>
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/>
   &nbsp
-  <a>
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/bash.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/bash.svg" width="40" height="40"/>
   &nbsp
-  <a>
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/git.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/git.svg" width="40" height="40"/>
   &nbsp
-  <a>
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/linux.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/linux.svg" width="40" height="40"/>
 </div>
 
 ### Socials
