@@ -1,42 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arun
+Hi, My name is Arun
 ============================================================================================================================
 
-I am passionate about Physics, Maths and Computer Science.
+I am passionate about Physics, Maths and Computer Science. I enjoy travelling, Chess and beer.
 
-*   🌍  I'm based in Albstadt, Germany
 *   ✉️  You can contact me at [kul.arun21@gmail.com](mailto:kul.arun21@gmail.com)
-*   🧠  I'm currently learning Machine Learning
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 <div>
-  <a href="https://www.python.org/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/python.svg" width="40" height="40"/>
   </a>
   &nbsp
-  <a href="https://isocpp.org/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/c++.svg" width="40" height="40"/>
   </a>
   &nbsp
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/bash.svg" width="40" height="40"/>
   </a>
   &nbsp
-  <a href="https://git-scm.com/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/git.svg" width="40" height="40"/>
   </a>
   &nbsp
-  <a href="https://www.linux.org/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/linux.svg" width="40" height="40"/>
   </a>
 </div>
 
 ### Socials
 <div>
-<!--   <a href="[https://www.linkedin.com/in/arun-kulathingal/](http://discordapp.com/users/919196166812479508)">
-    <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/discord.svg" width="40" height="40"/> &nbsp;
-  </a> -->
-  <a href="https://www.linkedin.com/in/arun-kulathingal/" target="_blank">
+<!-- <a href="[https://www.linkedin.com/in/arun-kulathingal/](http://discordapp.com/users/919196166812479508)"> -->
+<!--     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/discord.svg" width="40" height="40"/> &nbsp; -->
+<!-- </a> -->
+<a href="https://www.linkedin.com/in/arun-kulathingal/" target="_blank">
     <img src="https://raw.githubusercontent.com/kul-arun/kul-arun/main/icons/linkedin.svg" width="35" height="39"/>
-  </a>
-</div>
+</a>
+</div> 
